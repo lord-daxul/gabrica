@@ -1,5 +1,5 @@
 <?php
 	
-	$mysqli = new mysqli("localhost", "root", "", "sistema");
+	$con=mysqli_connect('localhost','colombei_gabrica','colombei_gabrica','colombei_gabrica');
 	
 ?>
